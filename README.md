@@ -1,2 +1,2 @@
-# Web-study
+# webStudy1
  My first Web Project
